@@ -8,7 +8,8 @@ active = true  # Activate this widget? true/false
 weight = 100  # Order that this section will appear.
 
 title = "Blog Posts"
-subtitle = "As I mentioned, trying to chalk out something meaningful. Will hopefully post something soon worthy of your time to read and my time to write!"
+subtitle = ""
+# subtitle = "As I mentioned, trying to chalk out something meaningful. Will hopefully post something soon worthy of # your time to read and my time to write!"
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
