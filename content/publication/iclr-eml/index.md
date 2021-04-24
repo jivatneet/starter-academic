@@ -41,7 +41,7 @@ url_code:
 url_dataset: 
 url_poster:
 url_project:
-url_slides:
+url_slides: files/ICLR2021_curiosity_slides.pdf
 url_source: 
 url_video:
 
