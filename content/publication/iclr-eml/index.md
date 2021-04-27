@@ -45,11 +45,11 @@ url_slides: files/ICLR2021_curiosity_slides.pdf
 url_source: 
 url_video:
 
-#links:
-#  - url: 'https://iafastro.directory/iac/paper/id/53342/summary/'
-#    # icon_pack: fab
-#    # icon: twitter
-#    name: Abstract
+links:
+  - url: 'https://arxiv.org/abs/2104.11902'
+    # icon_pack: fab
+    # icon: twitter
+    name: arXiv
 
 
 # Featured image
