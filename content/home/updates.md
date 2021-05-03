@@ -65,12 +65,12 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-**May  2021**&nbsp;&nbsp;Attending ICLR'21!<br>
-**Mar  2021**&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2104.11902) accepted to ICLR 2021 [Workshop on Embodied Multimodal Learning](https://eml-workshop.github.io/).<br>
-**Jan  2021**&nbsp;&nbsp;Started my bachelor thesis at [MultiComp Lab](http://multicomp.cs.cmu.edu/), CMU!<br>
-**Jul  2020**&nbsp;&nbsp;Received the  Grace Hopper Celebration India (GHCI) scholarship!<br>
-**May  2020**&nbsp;&nbsp;Started summer internship at Microsoft.<br>
-**Oct  2019**&nbsp;&nbsp;[Paper](https://team-anant.org/papers/IAC-19,B4,9-GTS.5,10,x53342.pdf) accepted to International Astronautical Congress (IAC) 2019.<br>
+**[May  2021]**&nbsp;&nbsp;Attending ICLR'21!<br>
+**[Mar  2021]**&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2104.11902) accepted to ICLR 2021 [Workshop on Embodied Multimodal Learning](https://eml-workshop.github.io/).<br>
+**[Jan  2021]**&nbsp;&nbsp;Started my bachelor thesis at [MultiComp Lab](http://multicomp.cs.cmu.edu/), CMU!<br>
+**[Jul  2020]**&nbsp;&nbsp;Received the  Grace Hopper Celebration India (GHCI) scholarship!<br>
+**[May  2020]**&nbsp;&nbsp;Started summer internship at Microsoft.<br>
+**[Oct  2019]**&nbsp;&nbsp;[Paper](https://team-anant.org/papers/IAC-19,B4,9-GTS.5,10,x53342.pdf) accepted to International Astronautical Congress (IAC) 2019.<br>
 <!-- Nov  2019 - One [paper](publication/malaviya-2019-extracting-sa/) accepted to AAAI<br>
 Sep  2019 - Gave a [talk](https://www.youtube.com/watch?v=HTE27VVwsNY) at [WeCNLP 2019](https://www.wecnlp.ai/wecnlp-2019)<br>
 Aug  2019 - Three papers accepted to EMNLP 2019 [1](publication/qin-2019-counterfactual/) [2](publication/dalvi-2019-everything-hf/) [3](publication/tandon-2019-wiqa/)<br>
