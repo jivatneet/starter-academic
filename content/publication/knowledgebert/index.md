@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Ask & Explore: Grounded Question Answering for Curiosity-driven exploration (ICLR 2021)"
-authors: [admin, "Yiding Jiang", "Paul Pu Liang"]
-date: 2019-10-21T22:43:22+05:30
+title: "No Need to Know Everything! Efficiently Augmenting Language Models With External Knowledge (AKBC 2021)"
+authors: [admin, "Sumit Bhatia", "Milan Aggarwal", "Rachit Bansal", "Balaji Krishnamurthy"]
+date: 2021-09-11T22:43:22+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -13,13 +13,13 @@ publishDate: 2021-03-26T22:43:22+05:30
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*ICLR 2021 Workshop on Embodied Multimodal Learning*"
-publication_short: "ICLR 2021"
+publication: "*Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC 2021*"
+publication_short: "AKBC 2021"
 
-abstract: "In many real-world scenarios where extrinsic rewards to the agent are extremely sparse, curiosity has emerged as a useful concept providing intrinsic rewards that enable the agent to explore its environment and acquire knowledge to achieve its goals. Despite their strong performance on many sparse-reward tasks, existing curiosity approaches rely on a holistic view of state transitions and do not allow for a structured understanding of specific aspects of the environment. In this paper, we formulate curiosity based on grounded question answering by encouraging the agent to ask questions about the environment and be curious when the answers to their questions change. We show that language questions encourage the agent to uncover specific knowledge about their environment such as the physical properties of objects as well as their spatial relationships with other objects, which serve as valuable curiosity rewards to solve sparse-reward tasks more efficiently."
+abstract: "Large transformer-based pre-trained language models have achieved impressive performance on a variety of knowledge-intensive tasks and can capture semantic, syntactic, and factual knowledge in their parameters. However, storing large amounts of factual knowledge in the parameters of the model is sub-optimal given the resource requirements and ever-growing amounts of knowledge. Instead of packing all the knowledge in the model parameters, we argue that a more efficient alternative is to provide contextually relevant structured knowledge to the model and train it to use that knowledge. This allows the training of the language model to be de-coupled from the external knowledge source and the latter can be updated without affecting the parameters of the language model. Empirical evaluation using different subsets of LAMA probe reveals that such an approach allows smaller language models with access to external knowledge to achieve significant and robust outperformance over much larger language models."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,24 +36,21 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: files/ICLR2021_Curiosity.pdf
+url_pdf: 'https://openreview.net/pdf?id=fn5K7VfI3MV'
 url_code: 
 url_dataset: 
 url_poster:
 url_project:
-url_slides: files/ICLR2021_curiosity_slides.pdf
+url_slides: 
 url_source: 
 url_video:
 
 links:
-  - url: 'https://arxiv.org/abs/2104.11902'
-    # icon_pack: fab
-    # icon: twitter
-    name: arXiv
-  - url: 'https://slideslive.com/38955429/ask-explore-grounded-question-answering-for-curiositydriven-exploration?ref=search'
+  - url: 'https://drive.google.com/file/d/1fIaIYLeU2urNrdOjrj-MeW5OK19kspUs/view?usp=sharing'
     # icon_pack: fab
     # icon: twitter
     name: talk
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

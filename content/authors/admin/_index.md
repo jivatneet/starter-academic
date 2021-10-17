@@ -6,18 +6,19 @@ title: Jivat Neet Kaur
 superuser: true
 
 # Role/position
-Role: Research Assistant
+Role: Research Fellow
 
 # Organizations/Affiliations
 organizations:
-- name: Carnegie Mellon University
+- name: Microsoft Research
   url: ""
 # Short bio (displayed in user profile at end of posts)
 bio: 
 
 interests:
-- Deep Learning
 - Natural Language Processing
+- Robustness and Generalization
+- Causality
 - Multimodal Machine Learning
 - Astrodynamics
 
@@ -72,13 +73,19 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a final year undergraduate at [BITS Pilani, Pilani](https://www.bits-pilani.ac.in/), majoring in Computer Science. I am currently pursuing my undergraduate thesis at the [MultiComp Lab](http://multicomp.cs.cmu.edu/) in the [Language Technologies Institute](https://lti.cs.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), where I am fortunate to be supervised by Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and mentored by [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) and [Yiding Jiang](https://yidingjiang.github.io/). My thesis is focused on multimodal reinforcement learning, specifically exploring how language grounding can assist in capturing affordance of objects and accelerate learning of autonomous agents.
+Hi! I am a Research Fellow at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/). My research focuses on causal representation learning and I am broadly interested in developing robust and generalizable systems possessing grounded language understanding.
 
-I have also been collaborating with the [Language Technology Lab, Universität Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) recently, where I feel grateful to be working under the supervision of [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) on Hyper-Relational Knowledge Graphs. Previously, I have interned as a software engineer at Microsoft, Bangalore and worked on computer vision problems at [MapmyIndia](https://www.mapmyindia.com/), Delhi.
 
-My current research interests lie in deep learning and natural language processing. My brief experience with computer vision in the past sparked my interest in multimodal learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. In the future, I aspire to work on seamless integration of modalities and build socially intelligent agents that can perceive, reason and act to assist people in interacting better with the world.
+Prior to this, I was a research intern at Adobe's Media and Data Science Research (MDSR) lab, where I worked on knowledge enhancement of language models to make robust factual predictions. I also contributed to a project on task-agnostic generalizable commonsense reasoning.
 
-I am searching for opportunities as a research assistant starting **Fall 2021**. If my research interests align with your work and you have a suitable position, please [contact](mailto:jivatneet@gmail.com) me.
+I graduated from [BITS Pilani, Pilani](https://www.bits-pilani.ac.in/) with a Bachelor's in Computer Science in 2021. I was fortunate to pursue my undergraduate thesis at the [MultiComp Lab](http://multicomp.cs.cmu.edu/) in the [Language Technologies Institute](https://lti.cs.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), supervised by Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and mentored by [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) and [Yiding Jiang](https://yidingjiang.github.io/). My thesis was focused on multimodal reinforcement learning, specifically exploring how language grounding can assist in capturing affordance of objects and accelerate learning of autonomous agents.
+
+
+In the past, I collaborated with the [Language Technology Lab, Universität Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html), where I felt grateful to be working under the supervision of [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) on query building and question answering over knowledge graphs. Previously, I have interned as a software engineer at Microsoft, Bangalore and worked on computer vision problems at [MapmyIndia](https://www.mapmyindia.com/), Delhi.
+
+<!-- My current research interests lie in deep learning and natural language processing. My brief experience with computer vision in the past sparked my interest in multimodal learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. In the future, I aspire to work on seamless integration of modalities and build socially intelligent agents that can perceive, reason and act to assist people in interacting better with the world. -->
+
+<!-- I will be applying to PhD programs for **Fall 2022**. If my research interests align with your work and you have a suitable position, please [contact](mailto:jivatneet@gmail.com) me. -->
 
 **Personal:** My childhood fascination with space (still excites me) led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I was fortunate to work with some amazing people. I love running, playing basketball and am trying to find time to revisit my passion to write.
 
