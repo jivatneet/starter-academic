@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Simulation and Selection of Detumbling Algorithms for a 3U CubeSat (IAC 2019)"
+title: "Simulation and Selection of Detumbling Algorithms for a 3U CubeSat"
 authors: ["Vishnu P Katkoori", admin, "Tushar Goyal"]
 date: 2019-10-21T22:43:22+05:30
 doi: ""
@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 70th International Astronautical Congress (IAC)*"
-publication_short: "IAC 2019"
+publication_short: "International Astronautical Congress (IAC) 2019"
 
 abstract: "As a satellite is deployed from the launch vehicle, it is subjected to high angular rates which need
 to be dampened in order for the satellite to perform its functions as expected. Simple and robust algorithms, such as BDot, are generally used to provide the required control torque for detumbling the

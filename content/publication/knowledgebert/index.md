@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "No Need to Know Everything! Efficiently Augmenting Language Models With External Knowledge (AKBC 2021)"
+title: "No Need to Know Everything! Efficiently Augmenting Language Models With External Knowledge"
 authors: [admin, "Sumit Bhatia", "Milan Aggarwal", "Rachit Bansal", "Balaji Krishnamurthy"]
 date: 2021-09-11T22:43:22+05:30
 doi: ""
@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC 2021*"
-publication_short: "AKBC 2021"
+publication_short: "Workshop on Commonsense Reasoning and Knowledge Bases (CSKB) at AKBC 2021"
 
 abstract: "Large transformer-based pre-trained language models have achieved impressive performance on a variety of knowledge-intensive tasks and can capture semantic, syntactic, and factual knowledge in their parameters. However, storing large amounts of factual knowledge in the parameters of the model is sub-optimal given the resource requirements and ever-growing amounts of knowledge. Instead of packing all the knowledge in the model parameters, we argue that a more efficient alternative is to provide contextually relevant structured knowledge to the model and train it to use that knowledge. This allows the training of the language model to be de-coupled from the external knowledge source and the latter can be updated without affecting the parameters of the language model. Empirical evaluation using different subsets of LAMA probe reveals that such an approach allows smaller language models with access to external knowledge to achieve significant and robust outperformance over much larger language models."
 
@@ -49,7 +49,7 @@ links:
   - url: 'https://drive.google.com/file/d/1fIaIYLeU2urNrdOjrj-MeW5OK19kspUs/view?usp=sharing'
     # icon_pack: fab
     # icon: twitter
-    name: talk
+    name: Talk
 
 
 # Featured image
