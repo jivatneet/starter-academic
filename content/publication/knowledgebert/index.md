@@ -46,7 +46,7 @@ url_source:
 url_video:
 
 links:
-  - url: 'https://drive.google.com/file/d/1fIaIYLeU2urNrdOjrj-MeW5OK19kspUs/view?usp=sharing'
+  - url: 'https://akbc-cskb.github.io/videos/17.mp4'
     # icon_pack: fab
     # icon: twitter
     name: Talk
