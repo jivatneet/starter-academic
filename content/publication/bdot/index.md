@@ -17,7 +17,7 @@ publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Proceedings of the 70th International Astronautical Congress (IAC)*"
-publication_short: "International Astronautical Congress (IAC) 2019"
+publication_short: "*Proceedings of the 70th International Astronautical Congress (IAC)*"
 
 abstract: "As a satellite is deployed from the launch vehicle, it is subjected to high angular rates which need
 to be dampened in order for the satellite to perform its functions as expected. Simple and robust algorithms, such as BDot, are generally used to provide the required control torque for detumbling the

@@ -17,7 +17,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*ICLR 2021 Workshop on Embodied Multimodal Learning*"
-publication_short: "ICLR 2021 Workshop on Embodied Multimodal Learning"
+publication_short: "*Workshop on Embodied Multimodal Learning at ICLR*"
 
 abstract: "In many real-world scenarios where extrinsic rewards to the agent are extremely sparse, curiosity has emerged as a useful concept providing intrinsic rewards that enable the agent to explore its environment and acquire knowledge to achieve its goals. Despite their strong performance on many sparse-reward tasks, existing curiosity approaches rely on a holistic view of state transitions and do not allow for a structured understanding of specific aspects of the environment. In this paper, we formulate curiosity based on grounded question answering by encouraging the agent to ask questions about the environment and be curious when the answers to their questions change. We show that language questions encourage the agent to uncover specific knowledge about their environment such as the physical properties of objects as well as their spatial relationships with other objects, which serve as valuable curiosity rewards to solve sparse-reward tasks more efficiently."
 
