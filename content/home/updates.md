@@ -65,6 +65,8 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**[Apr  2022]**&nbsp;&nbsp;Two papers from internship at Adobe accepted to NAACL 2022!<br>
+**[Mar  2022]**&nbsp;&nbsp;Short paper studying SPARQL semantic parsing baselines accepted to SIGIR 2022!<br>
 **[Sep  2021]**&nbsp;&nbsp;Joined Microsoft Research as a Research Fellow where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/)!<br>
 **[Sep  2021]**&nbsp;&nbsp;Two papers accepted to [Workshop on Commonsense Reasoning and Knowledge Bases (CSKB)](https://akbc-cskb.github.io/) at AKBC 2021.<br>
 **[Aug  2021]**&nbsp;&nbsp;Received Prof. V S Rao Foundation Best All-Rounder Award 2021!<br>
