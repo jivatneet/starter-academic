@@ -65,8 +65,10 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**[Jul  2022]**&nbsp;&nbsp;I will be attending ICML 2022 in Baltimore!<br>
+**[Jun  2022]**&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2206.07837) accepted as Spotlight to [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home?authuser=0) at ICML 2022.<br>
 **[Apr  2022]**&nbsp;&nbsp;Two papers from internship at Adobe accepted to NAACL 2022!<br>
-**[Mar  2022]**&nbsp;&nbsp;Short paper studying SPARQL semantic parsing baselines accepted to SIGIR 2022!<br>
+**[Mar  2022]**&nbsp;&nbsp;[Short paper](https://arxiv.org/abs/2204.12793) studying SPARQL semantic parsing baselines accepted to SIGIR 2022.<br>
 **[Sep  2021]**&nbsp;&nbsp;Joined Microsoft Research as a Research Fellow where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/)!<br>
 **[Sep  2021]**&nbsp;&nbsp;Two papers accepted to [Workshop on Commonsense Reasoning and Knowledge Bases (CSKB)](https://akbc-cskb.github.io/) at AKBC 2021.<br>
 **[Aug  2021]**&nbsp;&nbsp;Received Prof. V S Rao Foundation Best All-Rounder Award 2021!<br>
@@ -74,9 +76,9 @@ subtitle = ""
 **[May  2021]**&nbsp;&nbsp;Attending ICLR'21!<br>
 **[Mar  2021]**&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2104.11902) accepted to ICLR 2021 [Workshop on Embodied Multimodal Learning](https://eml-workshop.github.io/).<br>
 **[Jan  2021]**&nbsp;&nbsp;Started my bachelor thesis at [MultiComp Lab](http://multicomp.cs.cmu.edu/), CMU!<br>
-**[Jul  2020]**&nbsp;&nbsp;Received the  Grace Hopper Celebration India (GHCI) scholarship!<br>
+<!-- **[Jul  2020]**&nbsp;&nbsp;Received the  Grace Hopper Celebration India (GHCI) scholarship!<br>
 **[May  2020]**&nbsp;&nbsp;Started summer internship at Microsoft.<br>
-**[Oct  2019]**&nbsp;&nbsp;[Paper](https://team-anant.org/papers/IAC-19,B4,9-GTS.5,10,x53342.pdf) accepted to International Astronautical Congress (IAC) 2019.<br>
+**[Oct  2019]**&nbsp;&nbsp;[Paper](https://team-anant.org/papers/IAC-19,B4,9-GTS.5,10,x53342.pdf) accepted to International Astronautical Congress (IAC) 2019.<br> -->
 <!-- Nov  2019 - One [paper](publication/malaviya-2019-extracting-sa/) accepted to AAAI<br>
 Sep  2019 - Gave a [talk](https://www.youtube.com/watch?v=HTE27VVwsNY) at [WeCNLP 2019](https://www.wecnlp.ai/wecnlp-2019)<br>
 Aug  2019 - Three papers accepted to EMNLP 2019 [1](publication/qin-2019-counterfactual/) [2](publication/dalvi-2019-everything-hf/) [3](publication/tandon-2019-wiqa/)<br>

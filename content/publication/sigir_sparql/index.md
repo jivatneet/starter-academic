@@ -1,8 +1,8 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "No Need to Know Everything! Efficiently Augmenting Language Models With External Knowledge"
-authors: [admin, "Sumit Bhatia", "Milan Aggarwal", "Rachit Bansal", "Balaji Krishnamurthy"]
+title: "Modern Baselines for SPARQL Semantic Parsing"
+authors: ["Debayan Banerjee", "Pranav Ajit Nair*", "Jivat Neet Kaur*", "Ricardo Usbeck", "Chris Biemann"]
 date: 2022-07-11T22:43:22+05:30
 doi: ""
 
@@ -16,10 +16,10 @@ publishDate: 2022-07-11T22:43:22+05:30
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Findings of the Association for Computational Linguistics: NAACL 2022*"
-publication_short: "*Findings of NAACL 2022*"
+publication: "*The 45th International ACM SIGIR Conference on Research and Development in Information Retrieval*"
+publication_short: "*SIGIR 2022*"
 
-abstract: "Large transformer-based pre-trained language models have achieved impressive performance on a variety of knowledge-intensive tasks and can capture semantic, syntactic, and factual knowledge in their parameters. However, storing large amounts of factual knowledge in the parameters of the model is sub-optimal given the resource requirements and ever-growing amounts of knowledge. Instead of packing all the knowledge in the model parameters, we argue that a more efficient alternative is to provide contextually relevant structured knowledge to the model and train it to use that knowledge. This allows the training of the language model to be de-coupled from the external knowledge source and the latter can be updated without affecting the parameters of the language model. Empirical evaluation using different subsets of LAMA probe reveals that such an approach allows smaller language models with access to external knowledge to achieve significant and robust outperformance over much larger language models."
+abstract: "In this work, we focus on the task of generating SPARQL queries from natural language questions, which can then be executed on Knowledge Graphs (KGs). We assume that gold entity and relations have been provided, and the remaining task is to arrange them in the right order along with SPARQL vocabulary, and input tokens to produce the correct SPARQL query. Pre-trained Language Models (PLMs) have not been explored in depth on this task so far, so we experiment with BART, T5 and PGNs (Pointer Generator Networks) with BERT embeddings, looking for new baselines in the PLM era for this task, on DBpedia and Wikidata KGs. We show that T5 requires special input tokenisation, but produces state of the art performance on LC-QuAD 1.0 and LC-QuAD 2.0 datasets, and outperforms task-specific models from previous works. Moreover, the methods enable semantic parsing for questions where a part of the input needs to be copied to the output query, thus enabling a new paradigm in KG semantic parsing."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -36,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 'https://openreview.net/pdf?id=fn5K7VfI3MV'
+url_pdf: 'https://arxiv.org/pdf/2204.12793.pdf'
 url_code: 
 url_dataset: 
 url_poster:
@@ -46,10 +46,14 @@ url_source:
 url_video:
 
 links:
-  - url: 'https://akbc-cskb.github.io/videos/17.mp4'
+  - url: 'https://arxiv.org/abs/2204.12793'
     # icon_pack: fab
     # icon: twitter
-    name: Talk
+    name: arXiv
+ # - url: 'https://akbc-cskb.github.io/videos/17.mp4'
+    # icon_pack: fab
+    # icon: twitter
+    # name: Talk
 
 
 # Featured image
