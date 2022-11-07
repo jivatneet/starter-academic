@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jivat Neet Kaur
+title: Jivat Neet Kaur*
 
 # Is this the primary user of the site?
 superuser: true
@@ -75,18 +75,20 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a Predoctoral [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/). My research focuses on causal representation learning for Out-of-Distribution generalization. I am broadly interested in developing robust machine learning systems that incorporate domain knowledge and learn from end-user feedback. In the long term, I aspire to build robust systems at scale to advance progress in complex societal problems.
+Hi! I am a Research Fellow at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/). My research focuses on causal representation learning and I am broadly interested in developing robust and generalizable systems possessing grounded language understanding.
 
+
+Prior to this, I was a research intern at Adobe's Media and Data Science Research (MDSR) lab, where I worked on knowledge enhancement of language models to make robust factual predictions. I also contributed to a project on task-agnostic generalizable commonsense reasoning.
 
 I graduated from [BITS Pilani, Pilani](https://www.bits-pilani.ac.in/) with a Bachelor's in Computer Science in 2021. I was fortunate to pursue my undergraduate thesis at the [MultiComp Lab](http://multicomp.cs.cmu.edu/) in the [Language Technologies Institute](https://lti.cs.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), supervised by Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and mentored by [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) and [Yiding Jiang](https://yidingjiang.github.io/). My thesis was focused on multimodal reinforcement learning, specifically exploring how language grounding can assist in capturing affordance of objects and accelerate learning of autonomous agents.
 
 
-Prior to MSR, I was a research intern at Adobe's Media and Data Science Research (MDSR) lab, working on knowledge enhancement of language models to make robust factual and commonsense reasoning-aware predictions. I have also had the good fortune of working with [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) at [Language Technology Lab, Universität Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html) on semantic parsing for knowledge graph question answering. In the past, I have interned as a software engineer at Microsoft and worked on computer vision problems at [MapmyIndia](https://www.mapmyindia.com/).
+In the past, I collaborated with the [Language Technology Lab, Universität Hamburg](https://www.inf.uni-hamburg.de/en/inst/ab/lt/home.html), where I felt grateful to be working under the supervision of [Prof. Dr. Chris Biemann](https://www.inf.uni-hamburg.de/en/inst/ab/lt/people/chris-biemann.html) on query building and question answering over knowledge graphs. Previously, I have interned as a software engineer at Microsoft, Bangalore and worked on computer vision problems at [MapmyIndia](https://www.mapmyindia.com/), Delhi.
 
 <!-- My current research interests lie in deep learning and natural language processing. My brief experience with computer vision in the past sparked my interest in multimodal learning, the vibrant multi-disciplinary research field that focuses on integrating and modeling multiple communicative modalities, including linguistic, acoustic and visual messages. In the future, I aspire to work on seamless integration of modalities and build socially intelligent agents that can perceive, reason and act to assist people in interacting better with the world. -->
 
 <!-- I will be applying to PhD programs for **Fall 2022**. If my research interests align with your work and you have a suitable position, please [contact](mailto:jivatneet@gmail.com) me. -->
 
-**Personal:** My childhood fascination with space (still excites me) led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I was fortunate to work with some amazing people. I love running, playing basketball, and am trying to find time to revisit my passion to write.
+**Personal:** My childhood fascination with space (still excites me) led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I was fortunate to work with some amazing people. I love running, playing basketball and am trying to find time to revisit my passion to write.
 
 

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Compiler Design for a Custom Language"
-summary: "Developed a fully functional compiler from scratch (in C) capable of lexical analysis, syntax tree creation, semantic analysis, static and dynamic type checking and generating executable assembly code. The artificial language supported constructs like dynamic memory allocation, loops, if-else ladders, switch statements, nested scopes and function calls"
+summary: "Developed a fully functional compiler from scratch (in C) capable of lexical analysis, syntax tree creation, semantic analysis, static and dynamic type checking and generating executable assembly code. The artificial language supported constructs like dynamic memory allocation, loops, if-else ladders, switch statements, nested scopes and function calls."
 authors: []
 tags: []
 categories: []

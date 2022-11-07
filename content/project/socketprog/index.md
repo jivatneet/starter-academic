@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Socket Programming"
-summary: "Implementation of File transfer using multi-channel stop-and-wait (TCP) and Selective Repeat (UDP) protocols"
+summary: "Implementation of File transfer using multi-channel stop-and-wait (TCP) and Selective Repeat (UDP) protocols."
 authors: []
 tags: []
 categories: []

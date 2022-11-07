@@ -10,7 +10,7 @@
 
 [[main]]
   name = "CV"
-  url = "files/Jivat_CV_July2022.pdf"
+  url = "files/Jivat_CV_Oct2022.pdf"
   weight = 20
 
 [[main]]
@@ -23,10 +23,10 @@
   url = "#projects"
   weight = 40
 
-[[main]]
-  name = "Blog"
-  url = "#posts"
-  weight = 50
+# [[main]]
+#  name = "Blog"
+#  url = "#posts"
+#  weight = 50
 
 # [[main]]
 #  name = "Contact"

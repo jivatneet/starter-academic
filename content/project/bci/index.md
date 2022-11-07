@@ -2,8 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Deep Learning EEG Response Representation for BCI"
-summary: "Built a multi-scale deep CNN architecture using Keras to learn Deep Motor Features for brain computer
-interface with imagined motor tasks in BCI - EEG motor activity dataset."
+summary: "Built a multi-scale deep CNN architecture using Keras to learn Deep Motor Features for brain computer interface with imagined motor tasks in BCI - EEG motor activity dataset."
 authors: []
 tags: []
 categories: []

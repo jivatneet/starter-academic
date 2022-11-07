@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "COVINFO Application"
-summary: "Developed a web application for real-time hospital resource monitoring (beds, ICUs, ventilators). Integrated a mask detection model to provide real-time information regarding the percentage of people wearing masks at any location using live video feed"
+summary: "Developed a web application for real-time hospital resource monitoring (beds, ICUs, ventilators). Integrated a mask detection model to provide real-time information regarding the percentage of people wearing masks at any location using live video feed."
 authors: []
 tags: []
 categories: []

@@ -19,7 +19,23 @@ publication_types: ["3"]
 publication: "*Workshop on Spurious Correlations, Invariance, and Stability at ICML 2022*"
 publication_short: "*Workshop on Spurious Correlations, Invariance, and Stability at ICML 2022 (Spotlight)*"
 
-abstract: "Real-world data collected from multiple domains can have multiple, distinct distribution shifts over multiple attributes. However, state-of-the art advances in domain generalization (DG) algorithms focus only on specific shifts over a single attribute. We introduce datasets with multi-attribute distribution shifts and find that existing DG algorithms fail to generalize. To explain this, we use causal graphs to characterize the different types of shifts based on the relationship between spurious attributes and the classification label. Each multi-attribute causal graph entails different constraints over observed variables, and therefore any algorithm based on a single, fixed independence constraint cannot work well across all shifts. We present Causally Adaptive Constraint Minimization (CACM), a new algorithm for identifying the correct independence constraints for regularization. Results on fully synthetic, MNIST and small NORB datasets, covering binary and multi-valued attributes and labels, confirm our theoretical claim: correct independence constraints lead to the highest accuracy on unseen domains whereas incorrect constraints fail to do so. Our results demonstrate the importance of modeling the causal relationships inherent in the data-generating process: in many cases, it is impossible to know the correct regularization constraints without this information."
+abstract: "Recent empirical studies on domain generalization (DG) have shown that DG algorithms that perform
+well on some distribution shifts fail on others, and no state-of-the-art DG algorithm performs
+consistently well on all shifts. Moreover, real-world data often has multiple distribution shifts over
+different attributes; hence we introduce multi-attribute distribution shift datasets and find that the
+accuracy of existing DG algorithms falls even further. To explain these results, we provide a formal
+characterization of generalization under multi-attribute shifts using a canonical causal graph. Based
+on the relationship between spurious attributes and the classification label, we obtain realizations of
+the canonical causal graph that characterize common distribution shifts and show that each shift entails
+different independence constraints over observed variables. As a result, we prove that any algorithm
+based on a single, fixed constraint cannot work well across all shifts, providing theoretical evidence
+for mixed empirical results on DG algorithms. Based on this insight, we develop *Causally Adaptive
+Constraint Minimization (CACM)*, an algorithm that uses knowledge about the data-generating process
+to adaptively identify and apply the correct independence constraints for regularization. Results on
+fully synthetic, MNIST, small NORB, and Waterbirds datasets, covering binary and multi-valued
+attributes and labels, show that adaptive dataset-dependent constraints lead to the highest accuracy on
+unseen domains whereas incorrect constraints fail to do so. Our results demonstrate the importance
+of modeling the causal relationships inherent in the data-generating process."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -50,10 +66,10 @@ links:
     # icon_pack: fab
     # icon: twitter
     name: arXiv
- # - url: 'https://akbc-cskb.github.io/videos/17.mp4'
+  - url: 'https://slideslive.com/38988002/spotlights?time=1812'
     # icon_pack: fab
     # icon: twitter
-    # name: Talk
+    name: Talk
 
 
 # Featured image

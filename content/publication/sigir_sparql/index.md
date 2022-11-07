@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Modern Baselines for SPARQL Semantic Parsing"
-authors: ["Debayan Banerjee", "Pranav Ajit Nair*", "Jivat Neet Kaur*", "Ricardo Usbeck", "Chris Biemann"]
+authors: ["Debayan Banerjee", co-author, "Pranav Ajit Nair*", "Ricardo Usbeck", "Chris Biemann"]
 date: 2022-07-11T22:43:22+05:30
 doi: ""
 

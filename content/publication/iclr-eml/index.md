@@ -41,7 +41,7 @@ url_code:
 url_dataset: 
 url_poster:
 url_project:
-url_slides: files/ICLR2021_curiosity_slides.pdf
+url_slides: 
 url_source: 
 url_video:
 
@@ -54,6 +54,10 @@ links:
     # icon_pack: fab
     # icon: twitter
     name: Talk
+  - url: files/ICLR2021_curiosity_slides.pdf
+    # icon_pack: fab
+    # icon: twitter
+    name: Slides
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
