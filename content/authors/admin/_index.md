@@ -87,6 +87,6 @@ Prior to MSR, I was a research intern at Adobe's Media and Data Science Research
 
 <!-- I will be applying to PhD programs for **Fall 2022**. If my research interests align with your work and you have a suitable position, please [contact](mailto:jivatneet@gmail.com) me. -->
 
-**Personal:** My childhood fascination with space (still excites me) led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I was fortunate to work with some amazing people. I love running, playing basketball, and am trying to find time to revisit my passion to write.
+**Personal:** My childhood fascination with space (still excites me) led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I had a great time designing control algorithms and brainstorming with some amazing people. I love running, playing basketball, and am trying to find time to revisit my passion to write.
 
 
