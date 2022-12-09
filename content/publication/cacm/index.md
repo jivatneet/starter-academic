@@ -54,8 +54,8 @@ featured: false
 
 url_pdf: 'https://arxiv.org/pdf/2206.07837.pdf'
 url_code: 
+url_poster: 
 url_dataset: 
-url_poster:
 url_project:
 url_slides: 
 url_source: 
@@ -70,6 +70,11 @@ links:
     # icon_pack: fab
     # icon: twitter
     name: Talk
+  - url: 'Poster_Latest.pdf'
+    # icon_pack: fab
+    # icon: twitter
+    name: Poster
+
 
 
 # Featured image

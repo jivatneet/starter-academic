@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "COVINFO Application"
-summary: "Developed a web application for real-time hospital resource monitoring (beds, ICUs, ventilators). Integrated a mask detection model to provide real-time information regarding the percentage of people wearing masks at any location using live video feed."
+title: "LM-CORE: Language Models with Contextually Relevant External Knowledge"
+summary: "Worked on knowledge enhancement of language models (LMs) by augmenting structured knowledge externally. Created a new masked pre-training corpus using Wikipedia hyperlinks to identify entity spans; trained LMs to retrieve contextually relevant knowledge via masked language modeling on this modified corpus."
 authors: []
 tags: []
 categories: []
-date: 2020-12-20T00:33:27+05:30
+date: 2022-1-1T00:05:23+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/siddhant-99/ibm_crackcovid"
+external_link: "https://arxiv.org/abs/2208.06458"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

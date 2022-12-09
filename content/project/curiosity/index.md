@@ -1,15 +1,15 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "COVINFO Application"
-summary: "Developed a web application for real-time hospital resource monitoring (beds, ICUs, ventilators). Integrated a mask detection model to provide real-time information regarding the percentage of people wearing masks at any location using live video feed."
+title: "Language Models for Curiosity-driven Exploration"
+summary: "Worked on improving agent exploration in sparse reward environments by formulating structured intrinsic rewards. Devised a novel form of curiosity leveraging *grounded question answering* to encourage the agent to ask questions about the environment and be curious when the answers to these questions change."
 authors: []
 tags: []
 categories: []
-date: 2020-12-20T00:33:27+05:30
+date: 2021-12-10T00:05:23+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/siddhant-99/ibm_crackcovid"
+external_link: "https://github.com/jivatneet/language-curiosity"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

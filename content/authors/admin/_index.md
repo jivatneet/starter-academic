@@ -60,7 +60,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Jivat_CV_Oct2022.pdf
+  link: files/Jivat_CV_Dec2022.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -75,7 +75,7 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am a Predoctoral [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/), where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/). My research focuses on causal representation learning for Out-of-Distribution generalization. I am broadly interested in developing robust machine learning systems that incorporate domain knowledge and learn from end-user feedback. In the long term, I aspire to build robust systems at scale to advance progress in complex societal problems.
+Hi! I am a Predoctoral [Research Fellow](https://www.microsoft.com/en-us/research/academic-program/research-fellows-program-at-microsoft-research-india/) at [Microsoft Research](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) (MSR), where I am working with [Dr. Amit Sharma](http://www.amitsharma.in/) and [Dr. Emre Kiciman](http://kiciman.org/). My research focuses on causal representation learning for Out-of-Distribution generalization. I am broadly interested in developing machine learning systems that are robust to data distribution shifts in real-world deployments. 
 
 
 I graduated from [BITS Pilani, Pilani](https://www.bits-pilani.ac.in/) with a Bachelor's in Computer Science in 2021. I was fortunate to pursue my undergraduate thesis at the [MultiComp Lab](http://multicomp.cs.cmu.edu/) in the [Language Technologies Institute](https://lti.cs.cmu.edu/) of [Carnegie Mellon University](https://www.cmu.edu/), supervised by Prof. [Louis-Philippe Morency](https://www.cs.cmu.edu/~morency/) and mentored by [Paul Pu Liang](http://www.cs.cmu.edu/~pliang/) and [Yiding Jiang](https://yidingjiang.github.io/). My thesis was focused on multimodal reinforcement learning, specifically exploring how language grounding can assist in capturing affordance of objects and accelerate learning of autonomous agents.
@@ -87,6 +87,6 @@ Prior to MSR, I was a research intern at Adobe's Media and Data Science Research
 
 <!-- I will be applying to PhD programs for **Fall 2022**. If my research interests align with your work and you have a suitable position, please [contact](mailto:jivatneet@gmail.com) me. -->
 
-**Personal:** My childhood fascination with space (still excites me) led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I had a great time designing control algorithms and brainstorming with some amazing people. I love running, playing basketball, and am trying to find time to revisit my passion to write.
+Way back, I was obsessed with being an astronaut (maybe someday?) and my fascination with space led me to joining [Team Anant](https://team-anant.org/), a group of passionate undergraduate students building BITS Pilani's first nanosatellite, where I had a great time designing control algorithms and brainstorming with some amazing people. I love running, playing basketball, and am trying to find time to revisit my passion to write.
 
 
