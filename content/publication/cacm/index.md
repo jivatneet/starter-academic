@@ -3,21 +3,21 @@
 
 title: "Modeling the Data-Generating Process is Necessary for Out-of-Distribution Generalization"
 authors: [admin, "Emre Kiciman", "Amit Sharma"]
-date: 2022-07-17T22:43:22+05:30
+date: 2023-01-21T22:43:22+05:30
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2022-07-17T22:43:22+05:30
+publishDate: 2022-01-21T22:43:22+05:30
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Workshop on Spurious Correlations, Invariance, and Stability at ICML 2022*"
-publication_short: "*Workshop on Spurious Correlations, Invariance, and Stability at ICML 2022 (Spotlight)*"
+publication: "*Eleventh International Conference on Learning Representations*"
+publication_short: "*ICLR 2023 (Spotlight)*"
 
 abstract: "Recent empirical studies on domain generalization (DG) have shown that DG algorithms that perform
 well on some distribution shifts fail on others, and no state-of-the-art DG algorithm performs

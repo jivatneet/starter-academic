@@ -65,6 +65,7 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+**[Jan  2023]**&nbsp;&nbsp; Our [work](https://arxiv.org/abs/2206.07837) discussing the necessity of modeling the data-generating process for OOD generalization accepted as notable-top-25% for oral presentation at ICLR 2023!<br>
 **[Jul  2022]**&nbsp;&nbsp;I will be attending ICML 2022 in Baltimore!<br>
 **[Jun  2022]**&nbsp;&nbsp;[Paper](https://arxiv.org/abs/2206.07837) accepted as Spotlight to [Workshop on Spurious Correlations, Invariance, and Stability](https://sites.google.com/view/scis-workshop/home?authuser=0) at ICML 2022.<br>
 **[Apr  2022]**&nbsp;&nbsp;Two papers from internship at Adobe accepted to NAACL 2022!<br>
